@@ -11,6 +11,7 @@ public class Demo1Test {
 	{
 		
 		System.out.println("add");
+		System.out.println("sub");
 		
 	}
 	
